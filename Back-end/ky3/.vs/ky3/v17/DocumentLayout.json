@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DungNguyen\\source\\repos\\ky3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4998E2C2-407A-4C95-A68B-44C84BF82863}|ky3\\ky3.csproj|c:\\users\\dungnguyen\\source\\repos\\ky3\\ky3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4998E2C2-407A-4C95-A68B-44C84BF82863}|ky3\\ky3.csproj|solutionrelative:ky3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky3\\ky3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ky3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky3\\ky3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ky3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T11:08:48.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
