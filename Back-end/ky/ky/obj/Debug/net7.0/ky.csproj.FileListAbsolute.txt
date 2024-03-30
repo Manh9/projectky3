@@ -1,0 +1,7 @@
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.csproj.AssemblyReference.cache
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.AssemblyInfoInputs.cache
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.AssemblyInfo.cs
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.csproj.CoreCompileInputs.cache
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DungNguyen\source\repos\ky\ky\obj\Debug\net7.0\ky.MvcApplicationPartsAssemblyInfo.cache

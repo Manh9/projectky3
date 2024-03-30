@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DungNguyen\\source\\repos\\ky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\models\\users\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\models\\users\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\models\\email\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\models\\email\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\models\\users\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\models\\users\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\controllers\\user_controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\controllers\\user_controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\dtos\\user_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\dtos\\user_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\models\\users\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\models\\users\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|c:\\users\\dungnguyen\\source\\repos\\ky\\ky\\ky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECDAA577-D575-403C-ADAD-3108E871F89F}|ky\\ky.csproj|solutionrelative:ky\\ky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "ky\\Models\\Users\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "ky\\Models\\Users\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:58:10.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ky\\Models\\Users\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\RefreshToken.cs",
+              "RelativeToolTip": "ky\\Models\\Users\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:58:03.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\appsettings.json",
+              "RelativeDocumentMoniker": "ky\\appsettings.json",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\appsettings.json",
+              "RelativeToolTip": "ky\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T11:45:04.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Entities\\Otp.cs",
+              "RelativeDocumentMoniker": "ky\\Entities\\Otp.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Entities\\Otp.cs",
+              "RelativeToolTip": "ky\\Entities\\Otp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T06:38:14.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\UserRegisterRequest.cs",
+              "RelativeDocumentMoniker": "ky\\Models\\Users\\UserRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Users\\UserRegisterRequest.cs",
+              "RelativeToolTip": "ky\\Models\\Users\\UserRegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:48:57.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\DTOs\\User_DTO.cs",
+              "RelativeDocumentMoniker": "ky\\DTOs\\User_DTO.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\DTOs\\User_DTO.cs",
+              "RelativeToolTip": "ky\\DTOs\\User_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:45:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Email\\EmailModel.cs",
+              "RelativeDocumentMoniker": "ky\\Models\\Email\\EmailModel.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Models\\Email\\EmailModel.cs",
+              "RelativeToolTip": "ky\\Models\\Email\\EmailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:32:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ky\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Services\\IEmailService.cs",
+              "RelativeToolTip": "ky\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T07:30:43.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Controllers\\User_Controller\\UsersController.cs",
+              "RelativeDocumentMoniker": "ky\\Controllers\\User_Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\Controllers\\User_Controller\\UsersController.cs",
+              "RelativeToolTip": "ky\\Controllers\\User_Controller\\UsersController.cs",
+              "ViewState": "AQIAAPMBAAAAAAAAAAAAAMYBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:42:52.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ky.csproj",
+              "DocumentMoniker": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\ky.csproj",
+              "RelativeDocumentMoniker": "ky\\ky.csproj",
+              "ToolTip": "C:\\Users\\DungNguyen\\source\\repos\\ky\\ky\\ky.csproj",
+              "RelativeToolTip": "ky\\ky.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T17:35:40.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
